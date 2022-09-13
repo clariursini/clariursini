@@ -24,8 +24,6 @@ Here are some ideas to get you started:
 
 - ⚡ Recently I finished the Web Developer Bootcamp at Le Wagon. **I'm looking to join a team to learn more and improve myself.**
 
-- 👨‍💻 LinkedIn Profile: [https://www.linkedin.com/in/clara-ursini/](https://www.linkedin.com/in/clara-ursini/)
-
 - 📫 I can be contacted at: **m.clara.ursini@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
