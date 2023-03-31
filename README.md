@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=clariursini&label=Profile%20views&color=ff006f&style=flat" alt="clariursini" /> </p>
 
-- 🔭 I’m currently working on: [Traditum](https://github.com/Traditum-dev/frontend-core)
+- 🔭 I’m currently working on: [Traditum](https://github.com/Traditum-dev/frontend-core), [Follow Hose](https://github.com/ryumakiguchi/follow-horse2) and [Break It](https://github.com/clariursini/secret-whisper)
 
 - ⚡ Full Stack Web Developer Bootcamp at Le Wagon.
 
