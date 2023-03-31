@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=clariursini&label=Profile%20views&color=ff006f&style=flat" alt="clariursini" /> </p>
 
-- 🔭 I’m currently working on [Follow my Pet](https://follow-my-pet.herokuapp.com)
+- 🔭 I’m currently working on: 
 
-- ⚡ Recently I finished the Web Developer Bootcamp at Le Wagon. **I'm looking to join a team to learn more and improve myself.**
+    - ⚡ https://github.com/Traditum-dev/frontend-core
 
 - 📫 I can be contacted at: **m.clara.ursini@gmail.com**
 
