@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=clariursini&label=Profile%20views&color=ff006f&style=flat" alt="clariursini" /> </p>
 
-- 🔭 I’m currently working on: 
+- 🔭 I’m currently working on: [Traditum](https://github.com/Traditum-dev/frontend-core)
 
-    - ⚡ https://github.com/Traditum-dev/frontend-core
+- ⚡ Full Stack Web Developer Bootcamp at Le Wagon.
 
 - 📫 I can be contacted at: **m.clara.ursini@gmail.com**
 
