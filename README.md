@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Clari Ursini</h1>
-<h3 align="center">I am a Business and Web developer professional. I pride myself for being flexible, fast learner, social and collaborative. I love learning new things and I am comfortable working in fast-paced environments.</h3>
+<h3 align="center">I am a Ruby on Rails Full Stack Web Developer. I am flexible, fast learner, social and collaborative. I love learning new things!.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=clariursini&label=Profile%20views&color=ff006f&style=flat" alt="clariursini" /> </p>
 
